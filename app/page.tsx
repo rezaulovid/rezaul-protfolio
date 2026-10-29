@@ -1,3 +1,5 @@
+'use client';
+
 import {
   ArrowDown,
   ArrowUpRight,
@@ -7,12 +9,18 @@ import {
   Linkedin,
   Mail,
   MapPin,
+  Maximize2,
   Phone,
   Sparkles,
   Code2,
   Search,
   Megaphone,
+  X,
+  Database,
+  Globe,
 } from 'lucide-react';
+
+import { useState } from 'react';
 
 import ProjectCard from '@/components/ProjectCard';
 import { projects } from '@/lib/projects';
@@ -35,7 +43,7 @@ const skillGroups = [
   },
   {
     title: 'Backend',
-    icon: Code2,
+    icon: Database,
     skills: [
       'Node.js',
       'Express.js',
@@ -121,6 +129,19 @@ const education = [
 ];
 
 export default function Home() {
+  const [lightbox, setLightbox] = useState<{
+    cert: (typeof certificates)[number] | null;
+    src: string | null;
+  }>({ cert: null, src: null });
+
+  const openLightbox = (cert: (typeof certificates)[number], src: string) => {
+    setLightbox({ cert, src });
+  };
+
+  const closeLightbox = () => {
+    setLightbox({ cert: null, src: null });
+  };
+
   return (
     <main>
       {/* HERO */}
@@ -494,23 +515,18 @@ export default function Home() {
           <div className="certificates-grid">
             {certificates.map((cert) => (
               <article className="certificate-card" key={cert.id}>
-                <div className="certificate-preview">
-                  {cert.file.toLowerCase().endsWith('.pdf') ? (
-                    <div className="certificate-pdf-icon">
-                      <svg
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        stroke="currentColor"
-                        strokeWidth="2"
-                      >
-                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
-                        <polyline points="14 2 14 8 20 8" />
-                      </svg>
-                      <span>PDF</span>
-                    </div>
-                  ) : (
-                    <Image src={cert.file} alt={cert.title} className="certificate-img" />
-                  )}
+                <div className="certificate-preview" onClick={() => openLightbox(cert, cert.file)} role="button" tabIndex={0} onKeyDown={(e) => e.key === 'Enter' && openLightbox(cert, cert.file)}>
+                  <Image
+                    src={cert.file}
+                    alt={cert.title}
+                    className="certificate-img"
+                    width={1584}
+                    height={1224}
+                    sizes="(max-width: 950px) 48vw, 320px"
+                  />
+                  <span className="certificate-open-overlay">
+                    <Maximize2 size={18} />
+                  </span>
                 </div>
                 <div className="certificate-card-body">
                   <span className="certificate-platform">{cert.issuer}</span>
@@ -527,23 +543,21 @@ export default function Home() {
                   </div>
                   <div className="certificate-actions">
                     <a
-                      href={cert.file}
+                      href={cert.pdfFile}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="certificate-btn certificate-btn-primary"
                     >
-                      <svg
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        stroke="currentColor"
-                        strokeWidth="2"
-                      >
-                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
-                        <polyline points="7 10 12 15 17 10" />
-                        <line x1="12" y1="15" x2="12" y2="3" />
-                      </svg>
-                      View Certificate
+                      <Download size={16} />
+                      Download PDF
                     </a>
+                    <button
+                      onClick={() => openLightbox(cert, cert.file)}
+                      className="certificate-btn certificate-btn-outline"
+                    >
+                      <Maximize2 size={16} />
+                      View Certificate
+                    </button>
                     {cert.verificationUrl ? (
                       <a
                         href={cert.verificationUrl}
@@ -698,6 +712,43 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {lightbox.cert && lightbox.src && (
+        <div
+          className="certificate-lightbox"
+          onClick={closeLightbox}
+          role="dialog"
+          aria-modal="true"
+          aria-label="Certificate preview"
+        >
+          <div
+            className="certificate-lightbox-backdrop"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <button
+              className="certificate-lightbox-close"
+              onClick={closeLightbox}
+              aria-label="Close certificate preview"
+            >
+              <X size={20} />
+            </button>
+            <Image
+              src={lightbox.src}
+              alt={`${lightbox.cert.title} — full view`}
+              className="certificate-lightbox-img"
+              width={1584}
+              height={1224}
+              sizes="90vw"
+            />
+            <p className="certificate-lightbox-title">
+              {lightbox.cert.title}
+            </p>
+            <p className="certificate-lightbox-issuer">
+              Issued by {lightbox.cert.issuer}
+            </p>
+          </div>
+        </div>
+      )}
     </main>
   );
 }
