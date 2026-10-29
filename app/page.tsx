@@ -1,4 +1,3 @@
-
 import {
   ArrowDown,
   ArrowUpRight,
@@ -13,126 +12,111 @@ import {
   Code2,
   Search,
   Megaphone,
-} from "lucide-react";
+} from 'lucide-react';
 
-import ProjectCard from "@/components/ProjectCard";
-import { projects } from "@/lib/projects";
-import { certificates } from "@/lib/certificates";
-import Image from "next/image";
-import rezaulPhoto from "@/asst/rezaul.png";
-import ContactForm from "@/components/ContactForm";
+import ProjectCard from '@/components/ProjectCard';
+import { projects } from '@/lib/projects';
+import { certificates } from '@/lib/certificates';
+import Image from 'next/image';
+import rezaulPhoto from '@/assets/rezaul.png';
 
 const skillGroups = [
   {
-    title: "Frontend",
+    title: 'Frontend',
     icon: Code2,
     skills: [
-      "HTML5 & CSS3",
-      "JavaScript",
-      "React.js",
-      "Next.js",
-      "Tailwind CSS",
-      "Responsive UI",
+      'HTML5 & CSS3',
+      'JavaScript',
+      'React.js',
+      'Next.js',
+      'Tailwind CSS',
+      'Responsive UI',
     ],
   },
- {
-  title: "Backend",
-  icon: Code2,
-  skills: [
-    "Node.js",
-    "Express.js",
-    "REST API",
-    "NoSQLBooster",
-    "MongoDB",
-  ],
-},
   {
-    title: "Brand & Digital Marketing",
+    title: 'Backend',
+    icon: Code2,
+    skills: [
+      'Node.js',
+      'Express.js',
+      'REST API',
+      'NoSQLBooster',
+      'MongoDB',
+    ],
+  },
+  {
+    title: 'Brand & Digital Marketing',
     icon: Megaphone,
     skills: [
-      "Brand Strategy",
-      "ATL / BTL",
-      "Google & Meta Ads",
-      "Influencer Marketing",
-      "Content Strategy",
-      "Corporate Communication",
+      'Brand Strategy',
+      'ATL / BTL',
+      'Google & Meta Ads',
+      'Influencer Marketing',
+      'Content Strategy',
+      'Corporate Communication',
     ],
   },
-
-{
-    title: "SEO & Analytics",
+  {
+    title: 'SEO & Analytics',
     icon: Search,
     skills: [
-      "Technical SEO",
-      "On-page & Off-page SEO",
-      "Keyword Research",
-      "GA4 & Search Console",
-      "Local SEO",
-      "GEO / AEO",
+      'Technical SEO',
+      'On-page & Off-page SEO',
+      'Keyword Research',
+      'GA4 & Search Console',
+      'Local SEO',
+      'GEO / AEO',
     ],
   },
-  
 ];
 
 const experiences = [
   {
-    company: "KOMMODITY KONNECT",
-    role: "Brand Marketing Executive & SEO Specialist",
-    date: "Jun 2026 — Present",
-    detail:
-      "Brand marketing, SEO, digital visibility and campaign execution.",
+    company: 'KOMMODITY KONNECT',
+    role: 'Brand Marketing Executive & SEO Specialist',
+    date: 'Jun 2026 — Present',
+    detail: 'Brand marketing, SEO, digital visibility and campaign execution.',
   },
   {
-    company: "CAS SCALE (BD) PVT. LTD.",
-    role: "Brand Marketing Executive & SEO Specialist",
-    date: "Aug 2025 — Apr 2026",
+    company: 'CAS SCALE (BD) PVT. LTD.',
+    role: 'Brand Marketing Executive & SEO Specialist',
+    date: 'Aug 2025 — Apr 2026',
     detail:
-      "Brand marketing and SEO in the light engineering and heavy industry sector.",
+      'Brand marketing and SEO in the light engineering and heavy industry sector.',
   },
   {
-    company: "Master Racks Ltd.",
-    role: "Senior Executive — Brand & Marketing",
-    date: "Apr 2024 — Jul 2025",
-    detail:
-      "Brand and marketing activities for a manufacturing business.",
+    company: 'Master Racks Ltd.',
+    role: 'Senior Executive — Brand & Marketing',
+    date: 'Apr 2024 — Jul 2025',
+    detail: 'Brand and marketing activities for a manufacturing business.',
   },
 ];
 
 const education = [
   {
- 
-  year: "2023–2024",
-  type: "Masters",
-  title: "M.Sc. in Botany",
-  institution: "Govt. Tolaram College · National University",
-  status: "Ongoing",
-},
-    {
-    year: "2022",
-    type: "UNDERGRADUATE",
-    title: "BSc (Hons) in Botany",
-    institution: "Habibullah Bahar College · National University",
-    // score: "CGPA",
-    // result: "2.73",
-    // total: "/ 4.00",
+    year: '2023–2024',
+    type: 'Masters',
+    title: 'M.Sc. in Botany',
+    institution: 'Govt. Tolaram College · National University',
+    status: 'Ongoing',
   },
   {
-    year: "2017",
-    type: "HIGHER SECONDARY",
-    title: "HSC · Science",
-    institution: "Govt. Shah Abdur Rouf College",
-    // score: "GPA",
-    // result: "2.92",
-    // total: "/ 5.00",
+    year: '2022',
+    type: 'UNDERGRADUATE',
+    title: 'BSc (Hons) in Botany',
+    institution: 'Habibullah Bahar College · National University',
   },
   {
-    year: "2014",
-    type: "SECONDARY",
-    title: "SSC · Science",
-    institution: "Govt. Chatra High School",
-    // score: "GPA",
-    // result: "3.69",
-    // total: "/ 5.00",
+    year: '2017',
+    type: 'HIGHER SECONDARY',
+    title: 'HSC · Science',
+    institution: 'Govt. Shah Abdur Rouf College',
+  },
+  {
+    year: '2014',
+    type: 'SECONDARY',
+    title: 'SSC · Science',
+    institution: 'Govt. Chatra High School',
   },
 ];
 
@@ -149,11 +133,16 @@ export default function Home() {
               <span className="pulse-dot" />
               OPEN TO OPPORTUNITIES
               <span className="availability-line" />
-            </div><p className="hero-kicker">Hello, I’m</p><h1>
-            Rezaul <span className="gradient-text">Islam.</span></h1> <h2>
-            Web Developer <span className="hero-and">×</span>
-            <br className="mobile-break" />SEO &amp; Brand Marketing
-            </h2><p className="hero-description">
+            </div>
+            <p className="hero-kicker">Hello, I’m</p>
+            <h1>
+              Rezaul <span className="gradient-text">Islam.</span>
+            </h1>
+            <h2>
+              Web Developer <span className="hero-and">×</span>
+              <br className="mobile-break" />SEO &amp; Brand Marketing
+            </h2>
+            <p className="hero-description">
               I bring strategy and technology together to build useful
               digital experiences, grow organic visibility, and create
               stronger brands.
@@ -220,7 +209,7 @@ export default function Home() {
 
               <div
                 className="portrait-placeholder"
-                style={{ position: "relative" }}
+                style={{ position: 'relative' }}
               >
                 <Image
                   src={rezaulPhoto}
@@ -228,7 +217,7 @@ export default function Home() {
                   fill
                   priority
                   sizes="(max-width: 700px) 245px, 400px"
-                  style={{ objectFit: "cover" }}
+                  style={{ objectFit: 'cover' }}
                 />
               </div>
 
@@ -380,8 +369,9 @@ export default function Home() {
                         <div className="skill-track">
                           <span
                             style={{
-                              width: `${[88, 78, 72, 84, 68, 74]
-                                [(j + i) % 6]}%`,
+                              width: `${[88, 78, 72, 84, 68, 74][
+                                (j + i) % 6
+                              ]}%`,
                             }}
                           />
                         </div>
@@ -460,17 +450,15 @@ export default function Home() {
           <div className="education-grid">
             {education.map((item, i) => (
               <article
-                className={`education-card ${i === 0 ? "featured-education" : ""}`}
+                className={`education-card ${
+                  i === 0 ? 'featured-education' : ''
+                }`}
                 key={item.title}
               >
                 <span className="education-year">{item.year}</span>
                 <span className="education-type">{item.type}</span>
                 <h3>{item.title}</h3>
                 <p>{item.institution}</p>
-                <div className="education-score">
-                  {item.score} <strong>{item.result}</strong>
-                  <span>{item.total}</span>
-                </div>
               </article>
             ))}
           </div>
@@ -509,7 +497,12 @@ export default function Home() {
                 <div className="certificate-preview">
                   {cert.file.toLowerCase().endsWith('.pdf') ? (
                     <div className="certificate-pdf-icon">
-                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                      <svg
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="2"
+                      >
                         <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
                         <polyline points="14 2 14 8 20 8" />
                       </svg>
@@ -539,7 +532,12 @@ export default function Home() {
                       rel="noopener noreferrer"
                       className="certificate-btn certificate-btn-primary"
                     >
-                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                      <svg
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="2"
+                      >
                         <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
                         <polyline points="7 10 12 15 17 10" />
                         <line x1="12" y1="15" x2="12" y2="3" />
@@ -553,19 +551,28 @@ export default function Home() {
                         rel="noopener noreferrer"
                         className="certificate-btn certificate-btn-outline"
                       >
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                         strokeWidth="2">
+                        <svg
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="2"
+                        >
                           <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
                           <polyline points="6 9 12 15 18 9" />
                         </svg>
                         Verify Certificate
                       </a>
                     ) : (
-                      <span className="certificate-btn certificate-btn-outline 
-                      certificate-no-verify"
-                       aria-disabled="true">
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                         strokeWidth="2">
+                      <span
+                        className="certificate-btn certificate-btn-outline certificate-no-verify"
+                        aria-disabled="true"
+                      >
+                        <svg
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="2"
+                        >
                           <circle cx="12" cy="12" r="10" />
                           <polyline points="12 6 12 12 16 14" />
                         </svg>
@@ -589,7 +596,7 @@ export default function Home() {
                 <span>06</span> / SELECTED WORK
               </p>
               <h2>
-                Projects built with{" "}
+                Projects built with{' '}
                 <span className="gradient-text">purpose.</span>
               </h2>
             </div>
@@ -640,7 +647,7 @@ export default function Home() {
             </h2>
             <p className="contact-intro">
               Open to opportunities in web development, SEO and digital
-              marketing. If you think we could work well 
+              marketing. If you think we could work well
               together, send me
               a message.
             </p>
@@ -691,15 +698,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-      {/* <div className="container"><ContactForm/></div>  */}
-      {/* FOOTER */}
-      <footer className="section-border">
-        <div className="container">
-          <p>
-            © {new Date().getFullYear()} Rezaul Islam. Built with Next.js.
-          </p>
-        </div>
-      </footer>
     </main>
   );
 }
