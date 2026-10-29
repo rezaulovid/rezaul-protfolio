@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2100" viewBox="0 0 1440 2100">
+<defs><linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#C084FC"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7C3AED" stop-opacity=".26"/><stop offset="100%" stop-color="#0B1020" stop-opacity="0"/></linearGradient></defs>
+<rect width="100%" height="100%" fill="#0B1020"/>
+<title>Rezaul Islam — Projects</title>
+<rect x="70" y="35" width="42" height="42" rx="12" fill="url(#grad)" stroke="none"/><text x="84" y="63" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="800">R</text><text x="125" y="62" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">REZAUL ISLAM</text><text x="700" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Home</text><text x="780" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">About</text><text x="865" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Skills</text><text x="945" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Projects</text><text x="1045" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Experience</text><rect x="1160" y="35" width="210" height="44" rx="12" fill="url(#grad)" stroke="none"/><text x="1191" y="63" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">LET’S CONNECT  ↗</text><path d="M70 96 L1370 96" stroke="#26314A" stroke-width="1"/>
+<text x="80" y="165" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">SELECTED WORK</text>
+<text x="80" y="230" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">Projects built to solve real problems.</text>
+<text x="80" y="280" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="400">Each project includes the problem, approach, tools and what I learned.</text>
+<rect x="80" y="360" width="1280" height="435" rx="22" fill="#111A2E" stroke="#26314A"/>
+<rect x="105" y="385" width="500" height="385" rx="18" fill="#17132F" stroke="none"/>
+<text x="145" y="450" fill="#8B5CF6" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">PROJECT  01</text>
+<text x="145" y="515" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800">Movie Explorer</text>
+<text x="145" y="565" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">A responsive movie discovery experience.</text>
+<rect x="145" y="610" width="410" height="42" rx="10" fill="#0B1020" stroke="#26314A"/>
+<text x="160" y="637" fill="#8B5CF6" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="650">React • React Router • API</text>
+<text x="650" y="445" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">OVERVIEW</text>
+<text x="650" y="490" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="500">Explore searchable movie content and navigate between detail views.</text>
+<text x="650" y="560" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">FOCUS AREAS</text>
+<text x="650" y="605" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Responsive UI • API integration • Routing</text>
+<text x="650" y="675" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">LIVE / REPOSITORY</text>
+<text x="650" y="710" fill="#67E8F9" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600">movie-explorer-pied-two.vercel.app</text>
+<text x="650" y="755" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">CASE STUDY DETAILS  ↗</text>
+<rect x="80" y="860" width="1280" height="435" rx="22" fill="#111A2E" stroke="#26314A"/>
+<rect x="105" y="885" width="500" height="385" rx="18" fill="#17132F" stroke="none"/>
+<text x="145" y="950" fill="#67E8F9" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">PROJECT  02</text>
+<text x="145" y="1015" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800">FitLog</text>
+<text x="145" y="1065" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Fitness plans and tracking interface.</text>
+<rect x="145" y="1110" width="410" height="42" rx="10" fill="#0B1020" stroke="#26314A"/>
+<text x="160" y="1137" fill="#67E8F9" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="650">Next.js • Tailwind CSS • API</text>
+<text x="650" y="945" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">OVERVIEW</text>
+<text x="650" y="990" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="500">A practice project focused on structured fitness planning and user flow.</text>
+<text x="650" y="1060" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">FOCUS AREAS</text>
+<text x="650" y="1105" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Component structure • UI consistency • Data flow</text>
+<text x="650" y="1175" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">LIVE / REPOSITORY</text>
+<text x="650" y="1210" fill="#67E8F9" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600">github.com/rezaulovid/B14-A6-Fit-Log</text>
+<text x="650" y="1255" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">CASE STUDY DETAILS  ↗</text>
+<rect x="80" y="1360" width="1280" height="435" rx="22" fill="#111A2E" stroke="#26314A"/>
+<rect x="105" y="1385" width="500" height="385" rx="18" fill="#17132F" stroke="none"/>
+<text x="145" y="1450" fill="#86EFAC" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">PROJECT  03</text>
+<text x="145" y="1515" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800">BazarDor / বাজার দর</text>
+<text x="145" y="1565" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Essential commodity price information, presented in Bengali.</text>
+<rect x="145" y="1610" width="410" height="42" rx="10" fill="#0B1020" stroke="#26314A"/>
+<text x="160" y="1637" fill="#86EFAC" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="650">Next.js • TypeScript • Tailwind CSS</text>
+<text x="650" y="1445" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">OVERVIEW</text>
+<text x="650" y="1490" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="500">33 essential commodities across 8 categories, with market prices and trends.</text>
+<text x="650" y="1560" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">FOCUS AREAS</text>
+<text x="650" y="1605" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Bengali-first UX • Category browsing • Price trends</text>
+<text x="650" y="1675" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">LIVE / REPOSITORY</text>
+<text x="650" y="1710" fill="#67E8F9" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600">bazar-dor14.vercel.app</text>
+<text x="650" y="1755" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">CASE STUDY DETAILS  ↗</text>
+<text x="80" y="1950" fill="#FBBF24" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Practice / learning projects should be clearly labelled as such.</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2500" viewBox="0 0 1440 2500">
+<defs><linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#C084FC"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7C3AED" stop-opacity=".26"/><stop offset="100%" stop-color="#0B1020" stop-opacity="0"/></linearGradient></defs>
+<rect width="100%" height="100%" fill="#0B1020"/>
+<title>Rezaul Islam — About and Experience</title>
+<rect x="70" y="35" width="42" height="42" rx="12" fill="url(#grad)" stroke="none"/><text x="84" y="63" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="800">R</text><text x="125" y="62" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">REZAUL ISLAM</text><text x="700" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Home</text><text x="780" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">About</text><text x="865" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Skills</text><text x="945" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Projects</text><text x="1045" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Experience</text><rect x="1160" y="35" width="210" height="44" rx="12" fill="url(#grad)" stroke="none"/><text x="1191" y="63" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">LET’S CONNECT  ↗</text><path d="M70 96 L1370 96" stroke="#26314A" stroke-width="1"/>
+<text x="80" y="165" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">ABOUT ME</text>
+<text x="80" y="230" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800">Strategy-minded marketer.</text>
+<text x="80" y="290" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="750">Developer in progress. Lifelong learner.</text>
+<text x="80" y="365" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="400">My work sits at the intersection of brand storytelling, organic search,</text>
+<text x="80" y="400" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="400">and building useful digital products. I bring a practical, data-aware</text>
+<text x="80" y="435" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="400">approach to growing visibility and improving digital experiences.</text>
+<rect x="80" y="500" width="1280" height="160" rx="22" fill="#111A2E" stroke="#26314A"/>
+<text x="110" y="555" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">3+ YEARS</text>
+<text x="110" y="590" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">Brand marketing &amp; SEO experience</text>
+<text x="490" y="555" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="750">SEO + ANALYTICS</text>
+<text x="490" y="590" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">Technical, content and performance</text>
+<text x="930" y="555" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="750">WEB DEVELOPMENT</text>
+<text x="930" y="590" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">React / Next.js learning journey</text>
+<text x="80" y="760" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">EXPERIENCE</text>
+<text x="80" y="815" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="750">Where I’ve made an impact.</text>
+<rect x="80" y="870" width="1280" height="195" rx="18" fill="#111A2E" stroke="#26314A"/>
+<rect x="105" y="895" width="8" height="145" rx="4" fill="url(#grad)" stroke="none"/>
+<text x="140" y="917" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="750">KOMMODITY KONNECT</text>
+<text x="140" y="952" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Brand Marketing Executive &amp; SEO Specialist</text>
+<text x="1090" y="917" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Jun 2026 — Present</text>
+<text x="140" y="995" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Brand marketing, SEO strategy, digital visibility and communications.</text>
+<rect x="80" y="1105" width="1280" height="195" rx="18" fill="#111A2E" stroke="#26314A"/>
+<rect x="105" y="1130" width="8" height="145" rx="4" fill="url(#grad)" stroke="none"/>
+<text x="140" y="1152" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="750">CAS SCALE (BD) PVT. LTD.</text>
+<text x="140" y="1187" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Brand Marketing Executive &amp; SEO Specialist</text>
+<text x="1090" y="1152" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Aug 2025 — Apr 2026</text>
+<text x="140" y="1230" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Brand marketing and SEO within light engineering and heavy industry.</text>
+<rect x="80" y="1340" width="1280" height="195" rx="18" fill="#111A2E" stroke="#26314A"/>
+<rect x="105" y="1365" width="8" height="145" rx="4" fill="url(#grad)" stroke="none"/>
+<text x="140" y="1387" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="750">MASTER RACKS LTD.</text>
+<text x="140" y="1422" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Senior Executive — Brand &amp; Marketing</text>
+<text x="1090" y="1387" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Apr 2024 — Jul 2025</text>
+<text x="140" y="1465" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Marketing execution and brand activities in industrial manufacturing.</text>
+<rect x="80" y="1575" width="1280" height="195" rx="18" fill="#111A2E" stroke="#26314A"/>
+<rect x="105" y="1600" width="8" height="145" rx="4" fill="url(#grad)" stroke="none"/>
+<text x="140" y="1622" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="750">EARLIER EXPERIENCE</text>
+<text x="140" y="1657" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Marketing &amp; related roles</text>
+<text x="1090" y="1622" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Previous roles</text>
+<text x="140" y="1700" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">The Tool Master &amp; Engineering Co. • The Waffle House • Metalab Pretreatment Industries • BIDEC</text>
+<text x="80" y="1850" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">EDUCATION</text>
+<rect x="80" y="1890" width="610" height="180" rx="18" fill="#111A2E" stroke="#26314A"/>
+<text x="110" y="1940" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="750">BSc (Hons) in Botany</text>
+<text x="110" y="1980" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Habibullah Bahar College / National University</text>
+<text x="110" y="2020" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="650">2022  •  CGPA 2.73 / 4.00</text>
+<rect x="720" y="1890" width="640" height="180" rx="18" fill="#111A2E" stroke="#26314A"/>
+<text x="750" y="1940" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="750">HSC — Science</text>
+<text x="750" y="1980" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Govt. Shah Abdur Rouf College</text>
+<text x="750" y="2020" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="650">2017  •  Science background</text>
+<text x="80" y="2200" fill="#FBBF24" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Note: verify all employment dates and titles before publishing.</text>
+</svg>

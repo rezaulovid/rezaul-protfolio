@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1900" viewBox="0 0 1440 1900">
+<defs><linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#C084FC"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7C3AED" stop-opacity=".26"/><stop offset="100%" stop-color="#0B1020" stop-opacity="0"/></linearGradient></defs>
+<rect width="100%" height="100%" fill="#0B1020"/>
+<title>Rezaul Islam — Resume and Contact</title>
+<rect x="70" y="35" width="42" height="42" rx="12" fill="url(#grad)" stroke="none"/><text x="84" y="63" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="800">R</text><text x="125" y="62" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">REZAUL ISLAM</text><text x="700" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Home</text><text x="780" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">About</text><text x="865" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Skills</text><text x="945" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Projects</text><text x="1045" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Experience</text><rect x="1160" y="35" width="210" height="44" rx="12" fill="url(#grad)" stroke="none"/><text x="1191" y="63" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">LET’S CONNECT  ↗</text><path d="M70 96 L1370 96" stroke="#26314A" stroke-width="1"/>
+<text x="80" y="165" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">RESUME &amp; CONTACT</text>
+<text x="80" y="230" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="800">Let’s make good work happen.</text>
+<text x="80" y="285" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="400">For opportunities, collaboration or a project conversation.</text>
+<rect x="80" y="350" width="760" height="430" rx="22" fill="#111A2E" stroke="#26314A"/>
+<text x="120" y="410" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">RESUME SNAPSHOT</text>
+<text x="120" y="475" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="35" font-weight="800">Rezaul Islam</text>
+<text x="120" y="520" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="400">Brand Marketing • SEO • Web Development</text>
+<path d="M120 555 L790 555" stroke="#26314A" stroke-width="1"/>
+<text x="120" y="610" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">CORE STRENGTHS</text>
+<text x="120" y="655" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="400">Brand strategy  /  Organic search  /  Digital campaigns</text>
+<text x="120" y="695" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="400">React &amp; Next.js projects  /  Analytics  /  Content</text>
+<rect x="120" y="715" width="210" height="50" rx="12" fill="url(#grad)" stroke="none"/><text x="138" y="746" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="650">Download CV</text>
+<rect x="885" y="350" width="475" height="430" rx="22" fill="#17132F" stroke="#26314A"/>
+<text x="925" y="410" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">GET IN TOUCH</text>
+<text x="925" y="475" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="750">Have an opportunity?</text>
+<text x="925" y="525" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400">Email</text>
+<text x="925" y="555" fill="#67E8F9" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">rezaul1998bd@gmail.com</text>
+<text x="925" y="610" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="400">Based in</text>
+<text x="925" y="640" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">Uttara, Dhaka, Bangladesh</text>
+<text x="925" y="700" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">LinkedIn  •  GitHub</text>
+<text x="80" y="900" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">CONTACT FORM</text>
+<rect x="80" y="940" width="1280" height="540" rx="22" fill="#111A2E" stroke="#26314A"/>
+<text x="120" y="988" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Your name</text>
+<rect x="120" y="1000" width="530" height="60" rx="10" fill="#0B1020" stroke="#26314A"/>
+<text x="700" y="988" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Email address</text>
+<rect x="700" y="1000" width="530" height="60" rx="10" fill="#0B1020" stroke="#26314A"/>
+<text x="120" y="1083" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Subject</text>
+<rect x="120" y="1095" width="1110" height="60" rx="10" fill="#0B1020" stroke="#26314A"/>
+<text x="120" y="1178" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Tell me a little about your project</text>
+<rect x="120" y="1190" width="1110" height="150" rx="10" fill="#0B1020" stroke="#26314A"/>
+<rect x="120" y="1390" width="190" height="50" rx="12" fill="url(#grad)" stroke="none"/><text x="138" y="1421" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="650">Send message</text>
+<path d="M80 1600 L1360 1600" stroke="#26314A" stroke-width="1"/>
+<text x="80" y="1660" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">REZAUL ISLAM  •  DHaka, BANGLADESH</text>
+<text x="1060" y="1660" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">GITHUB  /  LINKEDIN  /  EMAIL</text>
+<text x="80" y="1760" fill="#FBBF24" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Implementation note: connect the form to a real endpoint before launch.</text>
+</svg>

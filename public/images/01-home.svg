@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2700" viewBox="0 0 1440 2700">
+<defs><linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#C084FC"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7C3AED" stop-opacity=".26"/><stop offset="100%" stop-color="#0B1020" stop-opacity="0"/></linearGradient></defs>
+<rect width="100%" height="100%" fill="#0B1020"/>
+<title>Rezaul Islam — Home Portfolio</title>
+<rect x="70" y="35" width="42" height="42" rx="12" fill="url(#grad)" stroke="none"/><text x="84" y="63" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="800">R</text><text x="125" y="62" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">REZAUL ISLAM</text><text x="700" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Home</text><text x="780" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">About</text><text x="865" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Skills</text><text x="945" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Projects</text><text x="1045" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Experience</text><rect x="1160" y="35" width="210" height="44" rx="12" fill="url(#grad)" stroke="none"/><text x="1191" y="63" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">LET’S CONNECT  ↗</text><path d="M70 96 L1370 96" stroke="#26314A" stroke-width="1"/>
+<rect x="70" y="145" width="1300" height="650" rx="28" fill="url(#glow)" stroke="none"/>
+<text x="95" y="205" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">BRAND MARKETING  /  SEO  /  WEB DEVELOPMENT</text>
+<text x="95" y="290" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="66" font-weight="800">Building brands,</text>
+<text x="95" y="365" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="66" font-weight="800">growing visibility,</text>
+<text x="95" y="440" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="66" font-weight="800">creating for the web.</text>
+<text x="98" y="505" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="400">I connect strategic marketing, search visibility and modern web</text>
+<text x="98" y="540" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="400">experiences to help ideas reach the right people.</text>
+<rect x="95" y="600" width="190" height="50" rx="12" fill="url(#grad)" stroke="none"/><text x="113" y="631" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="650">Explore my work</text>
+<rect x="300" y="600" width="175" height="50" rx="12" fill="#111A2E" stroke="#26314A"/><text x="318" y="631" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="650">Download resume</text>
+<text x="98" y="710" fill="#86EFAC" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="650">BANANI / UTTARA, DHAKA  •  OPEN TO OPPORTUNITIES</text>
+<rect x="1010" y="205" width="290" height="385" rx="26" fill="#111A2E" stroke="#26314A"/>
+<rect x="1050" y="245" width="210" height="210" rx="22" fill="#17132F" stroke="none"/>
+<text x="1104" y="330" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="800">RI</text>
+<text x="1050" y="490" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Marketing × Search × Code</text>
+<text x="1050" y="523" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="400">One curious, growth-minded builder.</text>
+<text x="1050" y="565" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700">PORTFOLIO / 2026</text>
+<text x="80" y="900" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">SELECTED PROJECTS</text>
+<text x="80" y="950" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="750">A few things I’ve been building.</text>
+<text x="80" y="990" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="400">Practical products, thoughtful UX, and a focus on useful outcomes.</text>
+<rect x="80" y="1030" width="405" height="365" rx="22" fill="#111A2E" stroke="#26314A"/>
+<rect x="100" y="1050" width="365" height="180" rx="16" fill="#17132F" stroke="none"/>
+<text x="122" y="1090" fill="#8B5CF6" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">01</text>
+<text x="122" y="1150" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="750">Movie Explorer</text>
+<text x="122" y="1270" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">Discover movies with a clean, responsive browsing experience.</text>
+<text x="122" y="1320" fill="#8B5CF6" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700">REACT  •  API  •  ROUTING</text>
+<text x="122" y="1365" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">VIEW CASE STUDY  ↗</text>
+<rect x="515" y="1030" width="405" height="365" rx="22" fill="#111A2E" stroke="#26314A"/>
+<rect x="535" y="1050" width="365" height="180" rx="16" fill="#17132F" stroke="none"/>
+<text x="557" y="1090" fill="#67E8F9" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">02</text>
+<text x="557" y="1150" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="750">FitLog</text>
+<text x="557" y="1270" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">A fitness tracking experience designed around personal plans.</text>
+<text x="557" y="1320" fill="#67E8F9" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700">NEXT.JS  •  TAILWIND  •  API</text>
+<text x="557" y="1365" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">VIEW CASE STUDY  ↗</text>
+<rect x="950" y="1030" width="405" height="365" rx="22" fill="#111A2E" stroke="#26314A"/>
+<rect x="970" y="1050" width="365" height="180" rx="16" fill="#17132F" stroke="none"/>
+<text x="992" y="1090" fill="#86EFAC" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">03</text>
+<text x="992" y="1150" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="750">BazarDor / বাজার দর</text>
+<text x="992" y="1270" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">A Bengali-first view of essential commodity prices across markets.</text>
+<text x="992" y="1320" fill="#86EFAC" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700">NEXT.JS  •  TYPESCRIPT  •  DATA</text>
+<text x="992" y="1365" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">VIEW CASE STUDY  ↗</text>
+<text x="80" y="1510" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">WHAT I BRING</text>
+<text x="80" y="1560" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="750">A cross-functional skill set.</text>
+<rect x="80" y="1610" width="405" height="190" rx="18" fill="#111A2E" stroke="#26314A"/>
+<text x="104" y="1660" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Brand Marketing</text>
+<text x="104" y="1705" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">Positioning, campaigns, ATL/BTL, content &amp; communications.</text>
+<text x="104" y="1755" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700">01 / STRATEGY</text>
+<rect x="515" y="1610" width="405" height="190" rx="18" fill="#111A2E" stroke="#26314A"/>
+<text x="539" y="1660" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">SEO &amp; Growth</text>
+<text x="539" y="1705" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">Technical, on-page, off-page, local SEO and analytics.</text>
+<text x="539" y="1755" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700">02 / VISIBILITY</text>
+<rect x="950" y="1610" width="405" height="190" rx="18" fill="#111A2E" stroke="#26314A"/>
+<text x="974" y="1660" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Web Development</text>
+<text x="974" y="1705" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">Responsive interfaces with React, Next.js and Tailwind CSS.</text>
+<text x="974" y="1755" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700">03 / EXPERIENCE</text>
+<rect x="80" y="1900" width="1280" height="260" rx="24" fill="#17132F" stroke="#26314A"/>
+<text x="115" y="1960" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">LET’S BUILD SOMETHING USEFUL</text>
+<text x="115" y="2020" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="750">Have a project or opportunity in mind?</text>
+<text x="115" y="2065" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="400">I’m open to full-time roles, collaborations and freelance projects.</text>
+<rect x="1120" y="2020" width="190" height="50" rx="12" fill="url(#grad)" stroke="none"/><text x="1138" y="2051" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="650">Get in touch</text>
+<path d="M80 2240 L1360 2240" stroke="#26314A" stroke-width="1"/>
+<text x="80" y="2290" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">REZAUL ISLAM  •  BRAND MARKETING / SEO / WEB DEVELOPMENT</text>
+<text x="1110" y="2290" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">GITHUB  /  LINKEDIN  /  EMAIL</text>
+</svg>

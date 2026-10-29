@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1500" viewBox="0 0 1440 1500">
+<defs><linearGradient id="grad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#C084FC"/></linearGradient><linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7C3AED" stop-opacity=".26"/><stop offset="100%" stop-color="#0B1020" stop-opacity="0"/></linearGradient></defs>
+<rect width="100%" height="100%" fill="#0B1020"/>
+<title>Rezaul Islam — Design System</title>
+<rect x="70" y="35" width="42" height="42" rx="12" fill="url(#grad)" stroke="none"/><text x="84" y="63" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="800">R</text><text x="125" y="62" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">REZAUL ISLAM</text><text x="700" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Home</text><text x="780" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">About</text><text x="865" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Skills</text><text x="945" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Projects</text><text x="1045" y="61" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">Experience</text><rect x="1160" y="35" width="210" height="44" rx="12" fill="url(#grad)" stroke="none"/><text x="1191" y="63" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">LET’S CONNECT  ↗</text><path d="M70 96 L1370 96" stroke="#26314A" stroke-width="1"/>
+<text x="80" y="165" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">DESIGN SYSTEM</text>
+<text x="80" y="230" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">Tokens, type and components.</text>
+<text x="80" y="280" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="400">A shared visual language for consistent Figma frames and frontend code.</text>
+<text x="80" y="370" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">COLOR TOKENS</text>
+<rect x="80" y="410" width="285" height="100" rx="16" fill="#0B1020" stroke="#26314A"/>
+<text x="80" y="540" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Background</text>
+<text x="250" y="540" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">#0B1020</text>
+<rect x="405" y="410" width="285" height="100" rx="16" fill="#111A2E" stroke="#26314A"/>
+<text x="405" y="540" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Surface</text>
+<text x="575" y="540" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">#111A2E</text>
+<rect x="730" y="410" width="285" height="100" rx="16" fill="#17132F" stroke="#26314A"/>
+<text x="730" y="540" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Surface Alt</text>
+<text x="900" y="540" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">#17132F</text>
+<rect x="1055" y="410" width="285" height="100" rx="16" fill="#8B5CF6" stroke="none"/>
+<text x="1055" y="540" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Primary</text>
+<text x="1225" y="540" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">#8B5CF6</text>
+<rect x="80" y="555" width="285" height="100" rx="16" fill="#A78BFA" stroke="none"/>
+<text x="80" y="685" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Accent</text>
+<text x="250" y="685" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">#A78BFA</text>
+<rect x="405" y="555" width="285" height="100" rx="16" fill="#F8FAFC" stroke="#26314A"/>
+<text x="405" y="685" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Text</text>
+<text x="575" y="685" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">#F8FAFC</text>
+<rect x="730" y="555" width="285" height="100" rx="16" fill="#A7B1C5" stroke="none"/>
+<text x="730" y="685" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Muted</text>
+<text x="900" y="685" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">#A7B1C5</text>
+<rect x="1055" y="555" width="285" height="100" rx="16" fill="#26314A" stroke="none"/>
+<text x="1055" y="685" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">Border</text>
+<text x="1225" y="685" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500">#26314A</text>
+<text x="80" y="750" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">TYPE SCALE</text>
+<text x="80" y="810" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800">Display / 56–66 px / Extra Bold</text>
+<text x="80" y="870" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="750">Heading / 32–42 px / Bold</text>
+<text x="80" y="920" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="650">Subheading / 20–24 px / Semibold</text>
+<text x="80" y="970" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="400">Body / 16–18 px / Regular</text>
+<text x="80" y="1010" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="400">Caption / 12–14 px / Medium</text>
+<text x="80" y="1100" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700">COMPONENTS</text>
+<rect x="80" y="1140" width="190" height="50" rx="12" fill="url(#grad)" stroke="none"/><text x="98" y="1171" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="650">Primary action</text>
+<rect x="290" y="1140" width="190" height="50" rx="12" fill="#111A2E" stroke="#26314A"/><text x="308" y="1171" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="650">Secondary action</text>
+<rect x="520" y="1140" width="300" height="50" rx="12" fill="#111A2E" stroke="#26314A"/>
+<text x="540" y="1171" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600">Project card / surface</text>
+<rect x="850" y="1140" width="250" height="50" rx="12" fill="#17132F" stroke="#26314A"/>
+<text x="870" y="1171" fill="#A78BFA" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="650">Tag / skill chip</text>
+<text x="80" y="1280" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Grid: 12 columns • max content width 1280 px • spacing scale 8 px • radius 12–24 px</text>
+<text x="80" y="1340" fill="#A7B1C5" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Responsive targets: Desktop 1440 • Tablet 768 • Mobile 390</text>
+</svg>
