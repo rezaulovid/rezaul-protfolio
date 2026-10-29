@@ -178,7 +178,7 @@ export default function Home() {
               {/* View Resume */}
               <a
                 className="btn btn-secondary"
-                href="/resume/MD-Rezaul-Islam.pdf"
+                href="/resume/Full-Stack Web Developer R.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
               >
