@@ -189,7 +189,7 @@ export default function Home() {
               {/* Download CV */}
               <a
                 className="btn btn-secondary"
-                href="/resume/Full-Stack Web Developer.pdf"
+                href="/resume/Full-Stack Web Developer R.pdf"
                 download="Full-Stack Web Developer.pdf"
               >
                 <Download size={17} />
@@ -542,15 +542,6 @@ export default function Home() {
                     ))}
                   </div>
                   <div className="certificate-actions">
-                    <a
-                      href={cert.pdfFile}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="certificate-btn certificate-btn-primary"
-                    >
-                      <Download size={16} />
-                      Download PDF
-                    </a>
                     <button
                       onClick={() => openLightbox(cert, cert.file)}
                       className="certificate-btn certificate-btn-outline"
